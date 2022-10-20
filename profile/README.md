@@ -4,4 +4,9 @@
 </div>
 </h1>
 
-Welcome to the HelixLauncher organization! We maintain the Helix Launcher project.
+Welcome to the HelixLauncher organization! We maintain the Helix Launcher project, a Minecraft launcher built on Rust.
+
+## Our Repositories
+
+* [HelixLauncher](https://github.com/HelixLauncher/HelixLauncher) - A Minecraft launcher built on Rust
+* [Art](https://github.com/HelixLauncher/Art) - A repository for art contributed to the Helix project
