@@ -10,3 +10,4 @@ Welcome to the HelixLauncher organization! We maintain Helix Launcher, a Minecra
 
 * [HelixLauncher](https://github.com/HelixLauncher/HelixLauncher) - A Minecraft launcher built on Rust
 * [Art](https://github.com/HelixLauncher/Art) - A repository for art contributed to the Helix project
+* [helixlauncher.dev](https://github.com/HelixLauncher/helixlauncher.dev) - The source code for the Helix website 
