@@ -12,4 +12,6 @@ Welcome to the HelixLauncher organization! We maintain Helix Launcher, a Minecra
 * [Community-Guidelines](https://github.com/HelixLauncher/HelixLauncher) - Repository for housing documentation on how Helix communities will be ran
 * [Art](https://github.com/HelixLauncher/Art) - A repository for art contributed to the Helix project
 * [helixlauncher.dev](https://github.com/HelixLauncher/helixlauncher.dev) - The source code for the Helix website 
-* [meta](https://github.com/HelixLauncher/meta) - Utility for fetching Minecraft and loader versions from a centralized source 
+* [meta](https://github.com/HelixLauncher/meta) - Utility for fetching Minecraft and loader versions from a centralized source
+* [ferinth](https://github.com/HelixLauncher/ferinth) - Forked modrinth rust library for use in Helix
+* [furse](https://github.com/HelixLauncher/furse) - Forked curseforge rust library for use in Helix
