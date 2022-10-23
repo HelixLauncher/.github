@@ -9,7 +9,7 @@ Welcome to the HelixLauncher organization! We maintain Helix Launcher, a Minecra
 ## Our Repositories
 
 * [HelixLauncher](https://github.com/HelixLauncher/HelixLauncher) - A Minecraft launcher built on Rust
-* [Art](https://github.com/HelixLauncher/Art) - A repository for contributed art, branding, and other things along those lines
-* [Community-Guidelines](https://github.com/HelixLauncher/Community-Guidelines) - The (work-in-progress) Code of Conduct for Helix
+* [Community-Guidelines](https://github.com/HelixLauncher/HelixLauncher) - Repository for housing documentation on how Helix communities will be ran
+* [Art](https://github.com/HelixLauncher/Art) - A repository for art contributed to the Helix project
 * [helixlauncher.dev](https://github.com/HelixLauncher/helixlauncher.dev) - The source code for the Helix website 
 * [meta](https://github.com/HelixLauncher/meta) - Utility for fetching Minecraft and loader versions from a centralized source 
