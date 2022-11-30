@@ -1,6 +1,8 @@
-# <img alt="Helix Launcher Banner" src="https://raw.githubusercontent.com/HelixLauncher/Art/main/branding/banner-launcher/banner-launcher_64h.png"></img>
+# [<img alt="Helix Launcher Banner" src="https://raw.githubusercontent.com/HelixLauncher/Art/main/branding/banner-launcher/banner-launcher_64h.png"></img>](https://discord.gg/DeJ2t42A7P)
 
 Welcome to the HelixLauncher organization! We maintain Helix Launcher, a Minecraft launcher built on Rust.
+
+Join our [Discord server](https://discord.gg/DeJ2t42A7P)!
 
 ## Our Repositories
 
